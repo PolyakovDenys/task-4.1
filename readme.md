@@ -2,6 +2,8 @@
 
 LICENCE: [MIT](./licinse.md)
 
+![](./logo/1024px-Git-logo.svg.png)
+
 ---
 ### Содержание
 1.[git add](add.md)
